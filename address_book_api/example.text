@@ -1,0 +1,21 @@
+{
+    "firstname": "Jules",
+    "lastname": "Kroll",
+    "phone_number": 2127020707,
+    "email": "string",
+    "street": "805 3rd Ave 29th floor",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": 10022
+}
+
+{
+    "firstname": "Molayo",
+    "lastname": "Decker",
+    "phone_number": 2127020707,
+    "email": "string",
+    "street": "2523 Sarrington Cir",
+    "city": "Dover",
+    "state": "MD",
+    "zipcode": 21344
+}
